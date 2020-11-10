@@ -1,3 +1,16 @@
+# TEAM
+* Hector Liang - Hl3169
+* Bennet Brown - bnb2122
+* Kamrul Hossain - kh2857
+* Ahad Butt - mb4340
+
+# important link 
+* Figma: https://www.figma.com/file/om9BFyF3j0HeG9q29uS0om/Adv-Eng?node-id=0%3A1 
+
+# github 
+* https://github.com/eastflag/webrtc-react-tutorial
+
+
 # WebRTC Video Conference Tutorial
 
 This tutorial is divided in three versions:
